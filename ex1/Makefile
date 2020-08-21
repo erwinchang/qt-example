@@ -9,3 +9,4 @@ clean:
 	rm -f src/Makefile
 	rm -f src/src.pro
 	rm -f src/main.o
+	rm -f src/src

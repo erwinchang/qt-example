@@ -6,4 +6,9 @@ Window {
     width: 640
     height: 480
     title: qsTr("Hello World")
+
+    Text {
+        text: qsTr("Hello World")
+        anchors.centerIn: parent
+    }
 }

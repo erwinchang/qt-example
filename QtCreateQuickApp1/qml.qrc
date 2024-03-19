@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>ch434item.qml</file>
     </qresource>
 </RCC>

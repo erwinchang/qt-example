@@ -17,5 +17,5 @@ OTHER_FILES += \
     qml/TurnIndicator.qml \
     qml/ValueSource.qml
 
-target.path = $$[QT_INSTALL_EXAMPLES]/quickcontrols/extras/dashboard
+target.path = D:/gitWork/github/Qt/qt-example/dashboard
 INSTALLS += target

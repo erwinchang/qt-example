@@ -4,5 +4,6 @@
         <file>ch434item.qml</file>
         <file>ch436key.qml</file>
         <file>button_quit.qml</file>
+        <file>my_signal.qml</file>
     </qresource>
 </RCC>

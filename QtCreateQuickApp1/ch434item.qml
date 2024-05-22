@@ -9,6 +9,7 @@ Window {
     title: qsTr("CH4.3.4 Item example")
 
     Rectangle{
+        id: colorRectangle
         width: 320;
         height: 480;
         color: "blue";
@@ -38,6 +39,7 @@ Window {
                 anchors.verticalCenter: parent.verticalCenter
                 onClicked: {
                     console.log("test log");
+                    console.log(colorRectangle.color.r,colorRectangle.color.g,colorRectangle.color.b);
                 }
             }
         }

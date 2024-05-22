@@ -2,5 +2,6 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>ch434item.qml</file>
+        <file>ch436key.qml</file>
     </qresource>
 </RCC>

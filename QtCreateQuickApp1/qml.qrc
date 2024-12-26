@@ -5,5 +5,6 @@
         <file>ch436key.qml</file>
         <file>button_quit.qml</file>
         <file>my_signal.qml</file>
+        <file>ch437text1.qml</file>
     </qresource>
 </RCC>
